@@ -125,3 +125,5 @@
 ---
 
 سپاس از شما که از این پروژه استفاده می‌کنید! امیدوارم براتون مفید باشه.
+
+![Visitor Count](https://komarev.com/ghpvc/?username=Argh94&repo=Telegram_bot&label=بازدیدها)
